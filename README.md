@@ -22,17 +22,22 @@
 </div>
 ---
 
-### About Me :
-I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. Currently a Front-end developer.
+### Hey, I'm Temitope 👋
 
+Full-Stack Engineer | SaaS Builder | AI Integration Specialist
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+Currently building:
+- 🚀 temi.dev — Personal portfolio & platform (Next.js, Supabase, Prisma)
+- 🤖 opsFlowAI — AI automation SaaS for support teams
+- 📱 Lopay — Cross-platform mobile app (React Native)
 
-- :seedling: Exploring Technical Content Writing, perfecting my frontend framework skills, researching backend and the stacks involved.
+Stack: TypeScript • React • Next.js • Node.js • NestJS • PostgreSQL • Supabase • Redis • LLM APIs
 
-- :zap: In my free time, I solve problems on Front-end Mentor and read tech articles.
+Open to remote full-stack & AI engineering roles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Temitope-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/temitope-ogunrekun-092736229/), email: olalekanogunrekun@gmail.com
+- :zap: In my free time, I listen to music, read mangas and play video games
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Temitope-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/temi-dev), email: olalekanogunrekun@gmail.com
 
 ---
 
